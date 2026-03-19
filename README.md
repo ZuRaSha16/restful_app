@@ -2,7 +2,7 @@
 
 A Flutter project implementing basic CRUD operations with a RESTful API for managing products.
 
----
+
 
 ## Introduction
 
