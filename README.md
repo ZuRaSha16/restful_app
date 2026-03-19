@@ -8,7 +8,6 @@ A Flutter project implementing basic CRUD operations with a RESTful API for mana
 
 This Flutter project demonstrates a simple CRUD (Create, Read, Update, Delete) application with a RESTful API for managing products. It allows users to add, update, delete, and view product details through the Flutter app.
 
----
 
 ## Features
 
@@ -17,7 +16,6 @@ This Flutter project demonstrates a simple CRUD (Create, Read, Update, Delete) a
 - **Product Delete:** Remove products from the database.
 - **Product View:** Retrieve and display product information.
 
----
 
 ## Technologies Used
 
@@ -27,7 +25,7 @@ This Flutter project demonstrates a simple CRUD (Create, Read, Update, Delete) a
 - **shimmer ^3.0.0:** Shimmer animation package for skeleton loading UI.
 - **restful-api.dev:** Free public REST API used as the backend data source.
 
----
+
 
 ## Getting Started
 
@@ -58,13 +56,13 @@ static const String _apiKey = 'YOUR_API_KEY_HERE';
 flutter run
 ```
 
----
+
 
 ## Video Link
 
 [![Demo Video](https://img.youtube.com/vi/rqVBnoxbL8k/0.jpg)](https://youtube.com/shorts/rqVBnoxbL8k)
 
----
+
 
 ## Screenshots
 
