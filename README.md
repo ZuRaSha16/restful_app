@@ -32,7 +32,7 @@ This Flutter project demonstrates a simple CRUD (Create, Read, Update, Delete) a
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/restful_app.git
+git clone https://github.com/ZuRaSha16/restful_app.git
 cd restful_app
 ```
 
